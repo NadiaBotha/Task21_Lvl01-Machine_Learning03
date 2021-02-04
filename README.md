@@ -4,9 +4,9 @@ linearRegression.py uses linear regression to plot the best fit linear line thro
 This is achieved however, by using the formalus below and not the built in linear_model.LinearRegression() from sklearn.
 
 Gradient:
-                                                  m = (μ(x) * μ(y) − μ(x * y))/((μ(x))2 − μ(x2))
+m = (μ(x) * μ(y) − μ(x * y))/((μ(x))2 − μ(x2))
 Y-intercept:
-                                                  b = μ(y) − m * μ(x)
+b = μ(y) − m * μ(x)
 
 
 ## Functions
