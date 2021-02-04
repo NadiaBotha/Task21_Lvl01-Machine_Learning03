@@ -5,6 +5,7 @@ This is achieved however, by using the formalus below and not the built in linea
 
 Gradient:
 m = (μ(x) * μ(y) − μ(x * y))/((μ(x))2 − μ(x2))
+
 Y-intercept:
 b = μ(y) − m * μ(x)
 
